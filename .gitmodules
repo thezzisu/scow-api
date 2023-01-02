@@ -1,0 +1,3 @@
+[submodule "SCOW"]
+	path = SCOW
+	url = https://github.com/PKUHPC/SCOW.git
