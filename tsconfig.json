@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "incremental": true,
+    "composite": true,
+    "rootDir": "src",
+    "target": "ESNext",
+    "lib": [],
+    // "experimentalDecorators": true,
+    // "emitDecoratorMetadata": true,
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "types": [
+      "@types/node"
+    ],
+    "declaration": true,
+    "sourceMap": true,
+    "outDir": "lib",
+    "stripInternal": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true
+  },
+  "include": [
+    "src/**/*.ts"
+  ]
+}
